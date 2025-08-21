@@ -33,6 +33,14 @@
   }
 }
 
+.ul_1 {
+  padding: 0px !important;
+}
+
+textarea{
+  overflow-y: scroll;
+}
+
 .card {
   padding: 2em;
 }

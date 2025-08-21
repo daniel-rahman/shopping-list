@@ -869,7 +869,7 @@ function ProductList({
             className="category-section list-category-section"
           >
             <h3 className="category-title list-category-title">{category}</h3>
-            <ul>
+            <ul className="ul_1">
               {groupedByCategory[category].map((item: Item) => (
                 <li
                   key={item.id}
