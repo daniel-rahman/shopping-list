@@ -2,7 +2,6 @@
   "name": "shopping-list",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://daniel-rahman.github.io/shopping-list",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.8.0",
@@ -18,6 +17,7 @@
     "typescript": "^4.9.5",
     "web-vitals": "^2.1.4"
   },
+  "homepage": "https://daniel-rahman.github.io/shopping-list",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
