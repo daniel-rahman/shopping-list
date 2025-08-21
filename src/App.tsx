@@ -1088,7 +1088,6 @@ function App() {
   const [showSavedListsSection, setShowSavedListsSection] =
     useState<boolean>(false); // New state for saved lists section
 
-  // States for save modal (now in App component)
   const [showSaveModal, setShowSaveModal] = useState<boolean>(false);
   const [listNameToSave, setListNameToSave] = useState<string>("");
   const [saveMessage, setSaveMessage] = useState<string | null>(null);
